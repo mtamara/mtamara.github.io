@@ -1,0 +1,13 @@
+.header .top-bar {
+    position: relative;
+    padding-top: 15px;
+    padding-bottom: 120px;
+}
+
+.header .intro {
+    padding-top: 90px;
+    padding-bottom: 60px;
+    position: relative;
+    font-size: 16px;
+    background: rgb(137, 34, 155);
+}
